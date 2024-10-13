@@ -10,19 +10,19 @@ We're thrilled to have you with us! To help you settle in smoothly, here are som
 
 ### 1. Arriving in the U.S. (for International Employees)
 <ul class="no-bullets">
-<li><strong>I94 Form</strong>: If you're joining us from abroad, you'll need to download your I94 form. You can find it here: [I94](https://i94.cbp.dhs.gov/I94/#/recent-search).</li>
-<li><strong>International Orientation</strong>: Don't forget to schedule your International Orientation and Registration using [this link](https://visamanager.partners.org/istart/controllers/start/StartEngine.cfm?serviceid=LimitedServicesLogonProvider).</li>
+<li><strong>I94 Form</strong>: If you're joining us from abroad, you'll need to download your I94 form. You can find it here: <a href="https://i94.cbp.dhs.gov/I94/#/recent-search">I94</a>.</li>
+<li><strong>International Orientation</strong>: Don't forget to schedule your International Orientation and Registration using <a href="https://visamanager.partners.org/istart/controllers/start/StartEngine.cfm?serviceid=LimitedServicesLogonProvider">this link</a>.</li>
 </ul>
 
 ### 2. Social Security Number (SSN) (if applicable)
 <ul class="no-bullets">
-<li>If you don't have an SSN yet, you can register at [Social Security](https://www.ssa.gov/).</li>
+<li>If you don't have an SSN yet, you can register at <a href="https://www.ssa.gov/">Social Security</a>.</li>
 <li>The Social Security office close to us is at 10 Causeway St, Boston, MA 02222. We recommend arriving 15–30 minutes before opening time to get everything done quickly! While booking an appointment online is an option, the wait can be 2-3 weeks, so visiting in person is usually faster.</li>
 </ul>
 
 ### 3. Registering Your Email
 <ul class="no-bullets">
-<li>Set up your email account at [My Profile Partners](https://myprofile.partners.org/Public/NewRegister). You'll need a valid phone number to register.</li>
+<li>Set up your email account at <a href="https://myprofile.partners.org/Public/NewRegister">My Profile Partners</a>. You'll need a valid phone number to register.</li>
 </ul>
 
 ### 4. Microsoft Teams & Lab Communications
@@ -45,30 +45,30 @@ We're thrilled to have you with us! To help you settle in smoothly, here are som
 
 ### 7. MGH Resources & Health Insurance
 <ul class="no-bullets">
-<li>MGH has tons of resources available through the [MGH HR Services](https://partnershealthcarehr.service-now.com/askmyhr).</li>
+<li>MGH has tons of resources available through the <a href="https://partnershealthcarehr.service-now.com/askmyhr">MGH HR Services</a>.</li>
 <li>If you're eligible, you can select your health insurance benefits through the MGB Benefits Center (Alight).</li>
 </ul>
 
 ### 8. Healthstream Courses
 <ul class="no-bullets">
-<li>There are some mandatory courses you need to complete during your first month. You can find them on Healthstream: [Healthstream](http://www.partners.org/healthstream).</li>
+<li>There are some mandatory courses you need to complete during your first month. You can find them on Healthstream: <a href="http://www.partners.org/healthstream">Healthstream</a>.</li>
 </ul>
 
 ### 9. Setting Up Okta for Secure Access
 <ul class="no-bullets">
 <li>Okta makes accessing your MGH email and websites a breeze without needing constant verification. Follow these guides to set it up:</li>
-<li>[Android Guide](https://healthcare.mgb.org/streaming/OKTA/Android.html)</li>
-<li>[iOS Guide](https://healthcare.mgb.org/streaming/OKTA/iOS.html)</li>
+<li><a href="https://healthcare.mgb.org/streaming/OKTA/Android.html">Android Guide</a></li>
+<li><a href="https://healthcare.mgb.org/streaming/OKTA/iOS.html">iOS Guide</a></li>
 </ul>
 
 ### 10. Computer Compliance
 <ul class="no-bullets">
 <li>If you're using your own laptop, make sure it's compliant:</li>
-<li><strong>MacOS</strong>: Version 12 or later. Enroll in PEAS: [PEAS](https://rc.partners.org/kb/article/3254)</li>
+<li><strong>MacOS</strong>: Version 12 or later. Enroll in PEAS: <a href="https://rc.partners.org/kb/article/3254">PEAS</a></li>
 <li><strong>Windows</strong>: Version 10 22H2 or later. Install SecureConnector and antivirus software:</li>
-<li>[Forescout SecureConnector](https://rc.partners.org/computer)</li>
-<li>[Approved Antivirus List](https://rc.partners.org/kb/article/1413)</li>
-<li>[CrowdStrike Installation Guide](https://rc.partners.org/security/secure-your-computer#crowdstrike-instructions-for-windows-install)</li>
+<li><a href="https://rc.partners.org/computer">Forescout SecureConnector</a></li>
+<li><a href="https://rc.partners.org/kb/article/1413">Approved Antivirus List</a></li>
+<li><a href="https://rc.partners.org/security/secure-your-computer#crowdstrike-instructions-for-windows-install">CrowdStrike Installation Guide</a></li>
 </ul>
 
 ### 11. Setting Up a Bank Account
@@ -78,7 +78,7 @@ We're thrilled to have you with us! To help you settle in smoothly, here are som
 
 ### 12. Salary Direct Deposit
 <ul class="no-bullets">
-<li>Set up your salary direct deposit through [Peoplesoft](https://peoplesoftportal.partners.org/).</li>
+<li>Set up your salary direct deposit through <a href="https://peoplesoftportal.partners.org/">Peoplesoft</a>.</li>
 </ul>
 
 ### 13. MBTA Pass Enrollment
@@ -105,33 +105,33 @@ We're thrilled to have you with us! To help you settle in smoothly, here are som
 
 ### 17. MGH Cluster Resources
 <ul class="no-bullets">
-<li>You can apply for MGH cluster resources [here](https://rc.partners.org/it-services/computational-resources).</li>
+<li>You can apply for MGH cluster resources <a href="https://rc.partners.org/it-services/computational-resources">here</a>.</li>
 </ul>
 
 ### 18. Harvard Key and ID
 <ul class="no-bullets">
-<li>Claim your Harvard Key at [Harvard Key Website](https://key.harvard.edu/select-user-type).</li>
-<li>If you need a Harvard ID, you can pick one up at the nearest [Harvard Campus Service Center](https://www.campusservicecenter.harvard.edu/contact).</li>
+<li>Claim your Harvard Key at <a href="https://key.harvard.edu/select-user-type">Harvard Key Website</a>.</li>
+<li>If you need a Harvard ID, you can pick one up at the nearest <a href="https://www.campusservicecenter.harvard.edu/contact">Harvard Campus Service Center</a>.</li>
 </ul>
 
 ### 19. Massachusetts ID
 <ul class="no-bullets">
-<li>If you want a Massachusetts ID, apply here: [Massachusetts ID Application](https://www.mass.gov/how-to/apply-for-a-massachusetts-identification-card-mass-id).</li>
+<li>If you want a Massachusetts ID, apply here: <a href="https://www.mass.gov/how-to/apply-for-a-massachusetts-identification-card-mass-id">Massachusetts ID Application</a>.</li>
 </ul>
 
 ### 20. VPN Access
 <ul class="no-bullets">
-<li>For secure VPN access, follow the steps [here](https://rc.partners.org/kb/article/1470).</li>
+<li>For secure VPN access, follow the steps <a href="https://rc.partners.org/kb/article/1470">here</a>.</li>
 </ul>
 
 ### 21. Accessing Department-Specific Tools and Code Documentation
 <ul class="no-bullets">
-<li>For guidelines on using department-specific tools and setting up clusters, please refer to the code documentation. You can find everything you need here: [Department Code Documentation & Tools](https://docs.mghro.io/paga/latest/). This will help you get familiar with the systems and ensure you're using the right tools effectively.</li>
+<li>For guidelines on using department-specific tools and setting up clusters, please refer to the code documentation. You can find everything you need here: <a href="https://docs.mghro.io/paga/latest/">Department Code Documentation & Tools</a>. This will help you get familiar with the systems and ensure you're using the right tools effectively.</li>
 </ul>
 
 ---
 
-If you notice anything missing or incorrect while completing your first week's administrative tasks, please let us know or feel free to adjust it. Thanks, and welcome to the team!
+If you notice anything missing or incorrect while completing your administrative tasks, please let us know or feel free to adjust it. Thanks, and welcome to the team!
 
 ---
 
