@@ -48,23 +48,27 @@
 
         .container {
             display: flex;
-            justify-content: space-between;
+            justify-content: flex-start; /* Align boxes to the left */
             align-items: center;
             padding: 10px;
-            margin-bottom: 30px; /* Add more space below the boxes */
+            margin-bottom: 20px; /* Space below the box */
         }
 
-        .left-item, .right-item {
-            flex: 1;
+        .left-item {
+            flex: 0; /* Ensures the box doesn't stretch */
             text-align: center;
-            max-width: 200px;
-            margin-right: 20px;
-            margin-bottom: 20px; /* Ensure space between boxes and other content */
+            max-width: 200px; /* Make the box smaller */
+            padding: 5px;
+            margin-right: 20px; /* Add space between the box and the content */
+            background-color: #007bff; /* Blue box */
+            color: white;
+            font-weight: bold;
+            border-radius: 5px;
         }
 
         h2, h3 {
             color: #007bff; /* Consistent blue */
-            margin-top: 40px; /* Increased spacing for better separation */
+            margin-top: 30px; /* Increased spacing for better separation */
         }
 
         footer {
@@ -100,10 +104,7 @@
     <div class="content">
         <div class="container">
             <div class="left-item">
-                <h2>starter_kit</h2>
-            </div>
-            <div class="right-item">
-                <h2>Some Other Title</h2>
+                starter_kit
             </div>
         </div>
         {{ content }}
