@@ -46,26 +46,6 @@
             margin: 0 auto;
         }
 
-        .container {
-            display: flex;
-            justify-content: flex-start; /* Align boxes to the left */
-            align-items: center;
-            padding: 10px;
-            margin-bottom: 20px; /* Space below the box */
-        }
-
-        .left-item {
-            flex: 0; /* Ensures the box doesn't stretch */
-            text-align: center;
-            max-width: 200px; /* Make the box smaller */
-            padding: 5px;
-            margin-right: 20px; /* Add space between the box and the content */
-            background-color: #007bff; /* Blue box */
-            color: white;
-            font-weight: bold;
-            border-radius: 5px;
-        }
-
         h2, h3 {
             color: #007bff; /* Consistent blue */
             margin-top: 30px; /* Increased spacing for better separation */
@@ -102,11 +82,6 @@
     </nav>
 
     <div class="content">
-        <div class="container">
-            <div class="left-item">
-                starter_kit
-            </div>
-        </div>
         {{ content }}
     </div>
 
