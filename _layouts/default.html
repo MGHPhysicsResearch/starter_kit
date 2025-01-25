@@ -73,9 +73,9 @@
 
     <nav>
         <a href="{{ '/' | relative_url }}">Home</a>
-        {% assign sorted = site.html_pages | sort:"rank" %}
+        {% assign sorted = site.pages | sort: "rank" | where: "rank", true %}
         {% for item in sorted %}
-            {% if item.title and item.rank and item.url != '/' %}
+            {% if item.title and item.url != '/' %}
                 <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
             {% endif %}
         {% endfor %}
