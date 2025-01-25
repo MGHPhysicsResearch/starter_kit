@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Onboarding
-rank: 2
+rank: 3
 ---
 
 ## Welcome to the Team! Getting Started Guidelines for New Members
