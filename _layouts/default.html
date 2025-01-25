@@ -64,7 +64,24 @@
             color: #007bff;
             text-decoration: none;
         }
+
+        #password-protected {
+            display: none;
+        }
     </style>
+    <script>
+        // Password protection logic
+        document.addEventListener("DOMContentLoaded", function () {
+            const password = "starterkit25"; // Set your password here
+            const userInput = prompt("Enter the password to access this page:");
+            if (userInput === password) {
+                document.getElementById("password-protected").style.display = "block";
+            } else {
+                alert("Incorrect password. You are not authorized to view this page.");
+                window.location.href = "about:blank"; // Redirect to a blank page
+            }
+        });
+    </script>
 </head>
 <body>
     <header>
@@ -81,19 +98,21 @@
         {% endfor %}
     </nav>
 
-    <div class="content">
-        {{ content }}
-    </div>
+    <div id="password-protected">
+        <div class="content">
+            {{ content }}
+        </div>
 
-    <footer>
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
-        {% if site.github.is_project_page %}
-        <p>Maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by OpenAI</small></p>
-    </footer>
+        <footer>
+            {% if site.github.is_user_page %}
+            <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+            {% endif %}
+            {% if site.github.is_project_page %}
+            <p>Maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+            <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+            {% endif %}
+            <p><small>Hosted on GitHub Pages &mdash; Theme by OpenAI</small></p>
+        </footer>
+    </div>
 </body>
 </html>
