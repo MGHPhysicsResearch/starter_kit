@@ -74,14 +74,14 @@
         document.addEventListener("DOMContentLoaded", function () {
             const password = "starterkit25"; // Set your password here
             
-            // Check if user has already been authenticated in this session
-            if (sessionStorage.getItem("authenticated") === "true") {
+            // Check if user has already been authenticated
+            if (localStorage.getItem("authenticated") === "true") {
                 document.getElementById("password-protected").style.display = "block";
             } else {
                 const userInput = prompt("Enter the password to access this page:");
                 if (userInput === password) {
-                    // Save authentication status for this session
-                    sessionStorage.setItem("authenticated", "true");
+                    // Save authentication status
+                    localStorage.setItem("authenticated", "true");
                     document.getElementById("password-protected").style.display = "block";
                 } else {
                     alert("Incorrect password. You are not authorized to view this page.");
