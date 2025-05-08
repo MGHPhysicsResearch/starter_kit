@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contribute to this wiki
-rank: 3
+rank: 4
 ---
 
 We always want to make this wiki as helpful as possible, therefore if you have any improvements or additions, feel free to do so. 
@@ -13,7 +13,7 @@ We always want to make this wiki as helpful as possible, therefore if you have a
 --- 
 layout: default
 title: Where is the cafeteria?
-rank: 1
+rank: n
 ---
 ```
 4. Add, commit and push to your fork

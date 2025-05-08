@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Onboarding
-rank: 3
+rank: 2
 ---
 
 ## Welcome to the Team! Getting Started Guidelines for New Members
@@ -78,17 +78,17 @@ We're thrilled to have you with us! To help you settle in smoothly, here are som
 
 ### 12. Salary Direct Deposit
 <ul class="no-bullets">
-<li>Set up your salary direct deposit through <a href="https://peoplesoftportal.partners.org/">Peoplesoft</a>.</li>
+<li>Set up your salary direct deposit by adding your bank account information in Workday. You can typically find this within your Workday portal.</li>
 </ul>
 
 ### 13. MBTA Pass Enrollment
 <ul class="no-bullets">
-<li>For easy public transport access, enroll in the MBTA pass system via Peoplesoft.</li>
+<li>For easy public transport access, enroll in the MBTA pass system using <a href="http://partnershealthcarehr.service-now.com/askmyhr?id=sc_cat_item&table=sc_cat_item&sys_id=7ebe1fe747001e9092d34ab7536d4338&searchTerm=mbta">Login - Ask My HR</a>.</li>
 </ul>
 
 ### 14. Updating Your Personal Information
 <ul class="no-bullets">
-<li>Be sure to update your address and emergency contacts in Peoplesoft.</li>
+<li>Be sure to update your address and emergency contacts in Workday.</li>
 </ul>
 
 ### 15. Submitting Vaccine Records
